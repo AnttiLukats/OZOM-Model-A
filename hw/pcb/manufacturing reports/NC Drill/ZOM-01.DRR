@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ZoM-Model-A.PcbDoc   11/19/2014  2:28:19 PM
+---------------------------------------------------------------------------
+
+Layer Pair : L 01 to L 06
+ASCII RoundHoles File : ZOM-01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          329              741.46 mm (29.19 Inch)
+T2        1mm (39.37mil)           Round          76               300.53 mm (11.83 Inch)
+T3        3.2mm (125.984mil)       Round          2                69.50 mm (2.74 Inch)
+T4        0.8mm (31.496mil)        Round          2         NPTH   1.95 mm (0.08 Inch)
+T5        1.1mm (43.307mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T6        1.6mm (62.992mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            411              1113.44 mm (43.84 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

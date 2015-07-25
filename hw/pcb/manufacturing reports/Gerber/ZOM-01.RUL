@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: B:\CustomerProjects\Trenz\ZoM\Model-A\current\hw\REV01\ZoM-Model-A.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_PadToKeepUot|Scope=Board|Minimum=0.08
+RuleKind=Width|RuleName=Width_All_Differential_Pairs|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_SameNet_PadToBigVia|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.90
+RuleKind=Width|RuleName=Logo|Scope=Board|Minimum=0.04
+RuleKind=Width|RuleName=All|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=-118.11
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_MicroVia|Scope=Board|Minimum=4.88
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_PolyToPoly|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_10Mil|Scope=Board|Minimum=10.00

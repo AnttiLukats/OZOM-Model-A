@@ -1,0 +1,10 @@
+Output: BOM-ZOM-01-Layer
+Type  : BOM
+From  : Project [ZoM-Model-A.PrjPCB]
+   Generated File[BOM-ZOM-01-Layer.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:28:27 PM On 11/19/2014
